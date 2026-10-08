@@ -1,22 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:06b6d4&height=190&section=header&text=Adrita%20Chakraborty&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Technical%20Writing%20%E2%80%A2%20Documentation%20%E2%80%A2%20AEO%20%26%20GEO&descAlignY=55&descSize=16" alt="Adrita Chakraborty banner" />
+<img src="assets/profile-banner.svg" width="100%" alt="Adrita Chakraborty — Documentation Engineer and Technical Writer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Documentation+Engineer+%26+Technical+Writer;Product+Research+%C3%97+Content+Strategy;AEO+%C3%97+GEO+%C3%97+AI-native+Workflows;Making+complex+products+clearer" alt="Animated introduction" />
+<br/>
 
-### 🌐 Find me online
+**Technical documentation that helps people understand, use, and trust products.**
 
-<a href="https://www.linkedin.com/in/adritaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:adrita7654321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/adrita77"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<sub>Clear documentation • Thoughtful research • Better product experiences</sub>
+<a href="https://www.linkedin.com/in/adritaa/"><img src="https://img.shields.io/badge/LinkedIn-145C45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:adrita7654321@gmail.com"><img src="https://img.shields.io/badge/Email-20845F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/adrita77"><img src="https://img.shields.io/badge/GitHub-0C392B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-## 👋 A little about me
+## 🌿 About me
 
 I'm **Adrita Chakraborty**, a **Documentation Engineer & Technical Content Strategist** based in Cyberjaya, Malaysia. My work spans technical documentation, product thinking, WordPress, **AEO/GEO**, semantic content architecture, and AI-native workflows.
 
@@ -33,7 +31,7 @@ I care about more than explaining a feature. I want to understand how people **d
 
 ---
 
-## 🚀 Product & documentation lab
+## 📂 Selected work & product collaborations
 
 **SemanticOS** — Working on product positioning, workflows, and content strategy around semantic SEO and AI discovery.
 
@@ -43,7 +41,7 @@ I care about more than explaining a feature. I want to understand how people **d
 
 ---
 
-## 🧭 Experience
+## 🧭 Professional experience
 
 | Organization | Role | Focus |
 |---|---|---|
@@ -57,15 +55,15 @@ I also have experience working independently with international clients on conte
 
 ---
 
-## 🧰 Areas of expertise
+## 🛠️ Expertise
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Technical-Documentation-8B5CF6?style=flat-square" alt="Technical documentation" />
+<img src="https://img.shields.io/badge/Technical-Documentation-166534?style=flat-square" alt="Technical documentation" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-<img src="https://img.shields.io/badge/Product-QA-EC4899?style=flat-square" alt="Product QA" />
-<img src="https://img.shields.io/badge/AEO_%26_GEO-0EA5E9?style=flat-square" alt="AEO and GEO" />
-<img src="https://img.shields.io/badge/AI--Native-Content-06B6D4?style=flat-square" alt="AI-native content" />
+<img src="https://img.shields.io/badge/Product-QA-16A34A?style=flat-square" alt="Product QA" />
+<img src="https://img.shields.io/badge/AEO_%26_GEO-15803D?style=flat-square" alt="AEO and GEO" />
+<img src="https://img.shields.io/badge/AI--Native-Content-059669?style=flat-square" alt="AI-native content" />
 <img src="https://img.shields.io/badge/Research-334155?style=flat-square" alt="Research" />
 
 </div>
@@ -92,10 +90,8 @@ I also have experience working independently with international clients on conte
 
 <div align="center">
 
-### 🌱 Research → Test → Explain → Improve
+**Research → Test → Explain → Improve**
 
-<sub>Making technical knowledge useful, not just available.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=110&section=footer" alt="Footer" />
+<sub>Thoughtful technical communication, supported by practical product understanding.</sub>
 
 </div>
