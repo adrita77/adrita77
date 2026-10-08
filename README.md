@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/adrita77">
-  <img width="100%" src="https://raw.githubusercontent.com/adrita77/adrita77/main/assets/hive-header-2026.gif?v=3" alt="Animated emerald green honeycomb banner: Adrita Chakraborty, Documentation Engineer and Technical Writer, with flying bees" />
+  <img width="100%" src="https://raw.githubusercontent.com/adrita77/adrita77/main/assets/hive-header-final.gif?v=4" alt="Animated emerald green honeycomb banner: Adrita Chakraborty, Documentation Engineer and Technical Writer, with flying bees" />
 </a>
 
 ### 🐝 Welcome to my Documentation Hive
@@ -175,7 +175,7 @@ I'm always interested in thoughtful conversations about **technical documentatio
 <div align="center">
 
 <a href="https://github.com/adrita77">
-  <img width="100%" src="https://raw.githubusercontent.com/adrita77/adrita77/main/assets/hive-footer-2026.gif?v=3" alt="Animated dark green honeycomb footer with two flying bees. Stay curious. Ship clarity." />
+  <img width="100%" src="https://raw.githubusercontent.com/adrita77/adrita77/main/assets/hive-footer-final.gif?v=4" alt="Animated dark green honeycomb footer with two flying bees. Stay curious. Ship clarity." />
 </a>
 
 <sub>Made with curiosity, a little honeycomb, and a lot of care for clear communication. 🐝</sub>
