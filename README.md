@@ -4,6 +4,8 @@
 
 <br/>
 
+### 🐝 Welcome to my Documentation Hive
+
 **Technical documentation that helps people understand, use, and trust products.**
 
 <a href="https://www.linkedin.com/in/adritaa/"><img src="https://img.shields.io/badge/LinkedIn-145C45?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
