@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Adrita Chakraborty — Documentation Engineer and Technical Writer" />
+<img src="https://raw.githubusercontent.com/adrita77/adrita77/main/assets/emerald-beehive-animated-v2.svg?v=20261008b" width="100%" alt="Adrita Chakraborty — Documentation Engineer and Technical Writer" />
 
 <br/>
 
